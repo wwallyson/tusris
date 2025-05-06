@@ -16,7 +16,7 @@ export default function RegisterScreen({ navigation }) {
 
   return (
     <ImageBackground
-      source={require("../assets/Colorful People Humanity Teamwork Logo (1).png")} // Certifique-se de que o caminho está correto
+      source={require("../assets/Design sem nome (2).png")} // Certifique-se de que o caminho está correto
       style={styles.background}
       resizeMode="cover"
     >

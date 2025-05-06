@@ -15,7 +15,7 @@ export default function LoginScreen({ setIsLoggedIn, navigation }) {
 
   return (
     <ImageBackground
-      source={require("../assets/Colorful People Humanity Teamwork Logo.png")} // Substitua pelo caminho da sua imagem
+      source={require("../assets/tela).jpg")} 
       style={styles.background} >
       <View style={styles.container}>
         <Image
